@@ -1,5 +1,9 @@
 package com.example.aflevering02022025_applikationsudvikling
 
+
+//SEE FUNCTIONS IN BOTTOM OF DOCUMENT:)
+
+
 fun main() {
     //Opgave 1
     println("Please enter your age: ")
@@ -13,7 +17,6 @@ fun main() {
     }
 
     //Opgave 2
-    //SEE FUNCTIONS IN BOTTOM OF DOCUMENT
     println(maxNumber(1, 18, 8))
     println(minNumber(1, 18, -8))
 
